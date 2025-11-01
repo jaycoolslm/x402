@@ -70,6 +70,12 @@ Update `.env` with your fee payer credentials:
 - `HEDERA_PRIVATE_KEY` – private key for the account (ECDSA)
 - Optional `PORT` (defaults to `3002`)
 
+### OR:
+
+Use our hosted testnet facilitator: https://x402-hedera-production.up.railway.app/
+
+You will need to update this as the environment variable in the next step!
+
 Start the facilitator:
 
 ```bash
